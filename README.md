@@ -61,7 +61,7 @@
 ### 🌐 Contact
 
 📧 **Email:** [baole.120503@gmail.com](mailto:baole.120503@gmail.com)  
-💼 **LinkedIn:** *(update if available)*  
+💼 **LinkedIn:** [linkedin.com/in/bảo-lê-515599341](https://www.linkedin.com/in/b%E1%BA%A3o-l%C3%AA-515599341/)
 
 ---
 
