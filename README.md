@@ -68,4 +68,3 @@
 <div align="center">
   <i>“Keep learning, keep building — technology creates real value through persistence and curiosity.”</i>
 </div>
-```
