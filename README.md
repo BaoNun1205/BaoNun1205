@@ -1,4 +1,3 @@
-```markdown
 <!-- GitHub Profile of Le Nguyen Bao -->
 
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/BaoNun1205">Le Nguyen Bao</a></h1>
