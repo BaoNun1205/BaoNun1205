@@ -10,7 +10,7 @@
 **Ho Chi Minh City University of Technology and Education (HCMUTE)**  
 📅 *09/2021 – 07/2025*  
 🎓 *Major:* Software Technology  
-📊 *Current GPA:* 3.5 / 4.0  
+📊 *GPA:* 3.5 / 4.0  
 
 ---
 
